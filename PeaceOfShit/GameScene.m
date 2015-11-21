@@ -7,7 +7,8 @@
 //
 
 #import "GameScene.h"
-// fkfkfkf
+// asasasasasasa
+
 
 @implementation GameScene
 {
