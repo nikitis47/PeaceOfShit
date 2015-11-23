@@ -7,7 +7,7 @@
 //
 
 #import "GameScene.h"
-
+// перш пидор
 @implementation GameScene
 {
     SKNode *_mainLayer;
